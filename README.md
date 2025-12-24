@@ -1,6 +1,3 @@
-Word to Markdown
-Results of converting New Microsoft Word Document.docx
-Markdown
 **HR Analytics Dashboard**
 
 This project presents a comprehensive human resources analytics dashboard designed using Microsoft Power BI. It helps HR professionals and decision-makers monitor key workforce metrics, identify trends, and support strategic workforce planning through data-driven insights.
